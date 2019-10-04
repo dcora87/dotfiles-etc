@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/logan/.config/wpg/wallpapers/rocket.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F1312",
+        "foreground": "#d6c7d2",
+        "cursor": "#d6c7d2"
+    },
+    "colors": {
+        "color0": "#0F1312",
+        "color1": "#8B1E26",
+        "color2": "#A91E2A",
+        "color3": "#8C232B",
+        "color4": "#BB3C4B",
+        "color5": "#5F7996",
+        "color6": "#C06E8E",
+        "color7": "#d6c7d2",
+        "color8": "#958b93",
+        "color9": "#8B1E26",
+        "color10": "#A91E2A",
+        "color11": "#8C232B",
+        "color12": "#BB3C4B",
+        "color13": "#5F7996",
+        "color14": "#C06E8E",
+        "color15": "#d6c7d2"
+    }
+}

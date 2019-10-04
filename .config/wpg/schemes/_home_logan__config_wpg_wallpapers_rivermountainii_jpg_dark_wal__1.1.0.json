@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/logan/.config/wpg/wallpapers/rivermountainii.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0e10",
+        "foreground": "#d9d5d7",
+        "cursor": "#d9d5d7"
+    },
+    "colors": {
+        "color0": "#0c0e10",
+        "color1": "#8B7661",
+        "color2": "#9A8E72",
+        "color3": "#CCAD72",
+        "color4": "#777B8E",
+        "color5": "#9F9E9A",
+        "color6": "#A8ADD5",
+        "color7": "#d9d5d7",
+        "color8": "#979596",
+        "color9": "#8B7661",
+        "color10": "#9A8E72",
+        "color11": "#CCAD72",
+        "color12": "#777B8E",
+        "color13": "#9F9E9A",
+        "color14": "#A8ADD5",
+        "color15": "#d9d5d7"
+    }
+}
